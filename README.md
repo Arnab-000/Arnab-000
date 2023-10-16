@@ -27,7 +27,7 @@
 
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-000&show_icons=true&locale=en&layout=compact" alt="arnab-000" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-000&show_icons=true&locale=en&layout=compact" alt="arnab-000" /></p>
 
 
 
