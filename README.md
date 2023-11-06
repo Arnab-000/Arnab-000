@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arnab.barua.ab@gmail.com**
 
-- 📄 Know about my experiences [http://surl.li/lxelq](http://surl.li/lxelq)
+- 📄 Know about my experiences [https://shorturl.at/cnLNZ](https://shorturl.at/cnLNZ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
